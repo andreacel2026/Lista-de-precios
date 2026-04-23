@@ -1,0 +1,12 @@
+[
+  {
+    "producto": "Leche",
+    "precio": 1200,
+    "imagen": "leche.jpg"
+  },
+  {
+    "producto": "Yogur",
+    "precio": 900,
+    "imagen": "yogur.jpg"
+  }
+]
